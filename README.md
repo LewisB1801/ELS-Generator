@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Release](https://img.shields.io/github/v/release/yourusername/ELS-Generator)](https://github.com/yourusername/ELS-Generator/releases)
+[![Release](https://img.shields.io/github/v/release/LewisB1801/ELS-Generator)](https://github.com/LewisB1801/ELS-Generator/releases)
 
 Created by **Three Peaks Studios**  
 Version 1.0
