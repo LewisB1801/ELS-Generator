@@ -72,18 +72,10 @@ Copy code
 
 ## 🖼️ Screenshots
 
-*Add your images here to showcase the UI or usage.*
+*Coming Soon*
 
 ![UI Screenshot](images/screenshot1.png)  
 ![Auto Scan Screenshot](images/screenshot2.png)  
-
----
-
-## 🎥 Demo Video
-
-*Add your demo video link here.*
-
-[Watch the demo video](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
 
 ---
 
