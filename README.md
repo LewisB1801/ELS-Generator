@@ -35,7 +35,7 @@ Copy code
 ### Using the Python Script
 1. Clone the repository:
 
-git clone https://github.com/yourusername/ELS-Generator.git
+git clone https://github.com/LewisB1801/ELS-Generator.git
 cd ELS-Generator
 
 markdown
