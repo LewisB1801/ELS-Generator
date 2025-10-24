@@ -112,8 +112,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## 🔗 Links
 
-- Repository: [https://github.com/yourusername/ELS-Generator](https://github.com/yourusername/ELS-Generator)  
-- Releases: [https://github.com/yourusername/ELS-Generator/releases](https://github.com/yourusername/ELS-Generator/releases)
+- Repository: [https://github.com/yourusername/ELS-Generator](https://github.com/LewisB1801/ELS-Generator)  
+- Releases: [https://github.com/yourusername/ELS-Generator/releases](https://github.com/LewisB1801/ELS-Generator/releases)
 
 ---
 
