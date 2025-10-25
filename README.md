@@ -100,8 +100,8 @@ Full license text: [https://creativecommons.org/licenses/by-nc/4.0/](https://cre
 
 ## 🔗 Links
 
-- Repository: [https://github.com/yourusername/ELS-Generator](https://github.com/LewisB1801/ELS-Generator)  
-- Releases: [https://github.com/yourusername/ELS-Generator/releases](https://github.com/LewisB1801/ELS-Generator/releases)
+- Repository: [https://github.com/LewisB1801/ELS-Generator](https://github.com/LewisB1801/ELS-Generator)  
+- Releases: [https://github.com/LewisB1801/ELS-Generator/releases](https://github.com/LewisB1801/ELS-Generator/releases)
 
 ---
 
